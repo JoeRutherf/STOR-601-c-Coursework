@@ -64,6 +64,6 @@ g++ -- version
 g++  -03 --std=c++17 main-read_more.cpp read_more.o Fundamental.o -o main-read_more.out
 time ./main-read_more.out
 
-The file c++ task 3 graph.ipynb is used to compare the amount of time it takes, on average, for the Fundamental Algorithm to work with the python algorithm,the c++ algorithm, and he c++ algorithm when using the -03 argument.
+The file c++ task 3 graph.ipynb is used to compare the amount of time it takes, on average, for the Fundamental Algorithm to work with the python algorithm,the c++ algorithm, and he c++ algorithm when using the -03 argument. The graph at the bottom of the file shows how the time changes while the number of men and women in each set change from 2-10.
 
 
