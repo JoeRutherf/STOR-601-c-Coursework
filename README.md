@@ -67,3 +67,10 @@ time ./main-read_more.out
 The file c++ task 3 graph.ipynb is used to compare the amount of time it takes, on average, for the Fundamental Algorithm to work with the python algorithm,the c++ algorithm, and he c++ algorithm when using the -03 argument. The graph at the bottom of the file shows how the time changes while the number of men and women in each set change from 2-10.
 
 
+#### TASK 4 FILES
+
+This file (README.md) is the file required, which explains how to use each document in the repository and what they can be used for.
+
+#### TASK 5 FILES
+
+The file Q5 is a text file which explains how you can use a c++ compiler on Windows. 
