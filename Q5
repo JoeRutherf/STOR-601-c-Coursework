@@ -1,0 +1,6 @@
+One way that you an use c++ on Windows is via Code::Blocks, which can be used for free.
+
+1) Go to the webpage https://sourceforge.net/projects/codeblocks/files/latest/download and press the button download.
+2) After downloading it, load it up by accessing your downloads.
+3) After loading it up, it gives a blank c++ file, in whih you can make files, such as .cpp ones.
+An advantage to using Code::Blocks is that instead of partitioning the code into different blocks like you do in Jupyter lab, you can leave the code in one section.
